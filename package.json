@@ -1,21 +1,18 @@
 {
-  "name": "fun_with_unit_testing_js",
+  "name": "fun_with_unit_testing_angular",
   "version": "1.0.0",
   "description": "This is an implementation of Fizz Buzz that is intended to be used as part of a lesson to teach how to write automated unit tests.",
   "main": "index.html",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/cestewart/FunWithUnitTestingJs.git"
+    "url": "git+ssh://git@github.com/cestewart/FunWithUnitTestingAngular.git"
   },
   "author": "Chris Stewart",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cestewart/FunWithUnitTestingJs/issues"
+    "url": "https://github.com/cestewart/FunWithUnitTestingAngular/issues"
   },
-  "homepage": "https://github.com/cestewart/FunWithUnitTestingJs#readme",
+  "homepage": "https://github.com/cestewart/FunWithUnitTestingAngular#readme",
   "dependencies": {
     "angular-ui-router": "^0.3.1"
   },
