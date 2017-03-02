@@ -11,5 +11,6 @@ describe('fizz buzz controller', function() {
 
     it('title should be set', function() {
         expect(controller.title).toBe('Fizz Buzz');
+        expect(controller.results.length).toBe(100);
     });
 });

@@ -9,5 +9,6 @@
     function fizzBuzzController(fizzBuzzService) {
         var vm = this;
         vm.title = 'Fizz Buzz';
+        vm.results = fizzBuzzService.getFizzBuzzResults(100);
     }
 })();
